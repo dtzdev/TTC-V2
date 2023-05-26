@@ -22,7 +22,7 @@ These instructions will guide you on how to set up and run TTC V2 on your local 
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/ttc-v2.git
+   git clone https://github.com/dtzdev/ttc-v2.git
    ```
    
    If you don't have Git installed, you can download the repository as a ZIP file and extract it.
